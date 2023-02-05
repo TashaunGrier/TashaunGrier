@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TashaunGrier
-- 👀 I’m interested in becoming a software engineer 
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
+- 👀 I’m interested in becoming a Cybersecurity Analyst
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that can help me grow
 - 📫 How to reach me email mgttmllc@gmail.com
 
