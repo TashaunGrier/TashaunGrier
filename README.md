@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TashaunGrier
 - 👀 I’m currently obtaining my BS in Cybersecurity & Information Assurance.
-- 🌱 I’m currently learning Network+
+- 🌱 I’m currently learning Security+
 - 💞️ I’m looking to collaborate on anything that can help me grow.
 - 📫 How to reach me email tashaung777@gmail.com
 
