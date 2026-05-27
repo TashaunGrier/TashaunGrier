@@ -54,10 +54,26 @@ authentication through claims analysis (`iss`, `aud`, `sub`, `scp`, `amr`).
 Built a five-machine Windows Server lab from scratch — resolved domain 
 controller conflicts, standardized network/DNS settings, and completed 
 end-to-end PMA component testing for privileged account management.
+### 🔐 SAML Federation Lab ✅
 
-### 🔜 SAML Federation Lab *(Coming Soon)*
-Configuring SAML 2.0 SSO between Entra ID and AWS IAM Identity Center. 
-Capturing and analyzing SAML assertions using browser dev tools.
+Configured SAML 2.0 SSO federation between **Microsoft Entra ID** and **Salesforce Developer Org**.
+
+**What I did:**
+- Registered Salesforce as an Enterprise Application in Microsoft Entra ID
+- Configured Basic SAML settings (Entity ID, ACS URL, Sign-on URL)
+- Downloaded Federation Metadata XML from Entra ID and uploaded it into Salesforce SSO Settings
+- Set SAML Identity Type to Federation ID mapping for enterprise-standard attribute handling
+- Assigned user in Entra ID and configured Federation ID in Salesforce user profile
+- Validated end-to-end IdP-initiated SSO login flow via Microsoft My Apps portal
+- Captured and analyzed live SAML assertions using SAML Tracer to inspect NameID, attribute claims, and token signatures
+
+**What I learned:**
+- How Identity Providers (IdP) and Service Providers (SP) exchange signed XML tokens
+- SAML assertion structure: NameID, AttributeStatement, signature validation
+- Federation ID mapping between Entra ID and Salesforce
+- Real-world enterprise SSO configuration workflow
+
+**Tools used:** Microsoft Entra ID · Salesforce Developer Org · SAML Tracer · Federation Metadata XML
 
 ### 🔜 SCIM Provisioning Lab *(Coming Soon)*
 Automating user lifecycle (joiner/mover/leaver) from Entra ID to SaaS 
