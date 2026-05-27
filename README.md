@@ -1,5 +1,4 @@
 <h1 align="center">Hey, I'm Tashaun Grier 👋</h1>
-
 <p align="center">
   <b>Cybersecurity & IAM Professional | WGU BS Cybersecurity & Information Assurance</b><br>
   South Florida | Open to IAM Analyst & Security Analyst Roles
@@ -9,13 +8,9 @@
 
 ## 🧑‍💻 About Me
 
-I'm an identity and access management professional with hands-on experience 
-administering Microsoft Entra ID, Active Directory, and ServiceNow in 
-enterprise environments. I'm passionate about IAM engineering, federated 
-identity protocols, and building secure, scalable access management solutions.
+I'm an identity and access management professional with hands-on experience administering Microsoft Entra ID, Active Directory, and ServiceNow in enterprise environments. I'm passionate about IAM engineering, federated identity protocols, and building secure, scalable access management solutions.
 
-Currently building out a lab portfolio covering SAML, OAuth 2.0/OIDC, SCIM 
-provisioning, and multi-cloud identity federation.
+Currently building out a lab portfolio covering SAML, OAuth 2.0/OIDC, SCIM provisioning, and multi-cloud identity federation.
 
 ---
 
@@ -45,15 +40,17 @@ provisioning, and multi-cloud identity federation.
 ## 🔬 Lab Projects
 
 ### 🔐 [OAuth 2.0 / OIDC Lab](https://github.com/TashaunGrier/oauth-oidc-lab)
-Configured Okta as an IdP and executed a full Authorization Code + PKCE flow 
-using Postman. Decoded and analyzed JWT access tokens and ID tokens, 
-documenting the difference between OAuth 2.0 authorization and OIDC 
-authentication through claims analysis (`iss`, `aud`, `sub`, `scp`, `amr`).
+
+Configured Okta as an IdP and executed a full Authorization Code + PKCE flow using Postman. Decoded and analyzed JWT access tokens and ID tokens, documenting the difference between OAuth 2.0 authorization and OIDC authentication through claims analysis (`iss`, `aud`, `sub`, `scp`, `amr`).
+
+---
 
 ### 🏗️ CyberArk PAM Lab (5-VM Environment)
-Built a five-machine Windows Server lab from scratch — resolved domain 
-controller conflicts, standardized network/DNS settings, and completed 
-end-to-end PMA component testing for privileged account management.
+
+Built a five-machine Windows Server lab from scratch — resolved domain controller conflicts, standardized network/DNS settings, and completed end-to-end PMA component testing for privileged account management.
+
+---
+
 ### 🔐 SAML Federation Lab ✅
 
 Configured SAML 2.0 SSO federation between **Microsoft Entra ID** and **Salesforce Developer Org**.
@@ -75,25 +72,26 @@ Configured SAML 2.0 SSO federation between **Microsoft Entra ID** and **Salesfor
 
 **Tools used:** Microsoft Entra ID · Salesforce Developer Org · SAML Tracer · Federation Metadata XML
 
+---
+
 ### 🔜 SCIM Provisioning Lab *(Coming Soon)*
-Automating user lifecycle (joiner/mover/leaver) from Entra ID to SaaS 
-applications via SCIM 2.0 API.
+
+Automating user lifecycle (joiner/mover/leaver) from Entra ID to SaaS applications via SCIM 2.0 API.
+
+---
 
 ### 🔜 Multi-Cloud Federation Lab *(Coming Soon)*
-Establishing federated identity trust between Entra ID and AWS IAM using 
-SAML 2.0 role mapping — enabling cross-cloud SSO without static credentials.
+
+Establishing federated identity trust between Entra ID and AWS IAM using SAML 2.0 role mapping — enabling cross-cloud SSO without static credentials.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Science — Cybersecurity & Information Assurance**  
+**Bachelor of Science — Cybersecurity & Information Assurance**
 Western Governors University | 2023 — Present
 
-*Relevant Coursework:* Fundamentals of Information Security · Legal Issues 
-in Information Security · Ethics in Technology · Information Systems Security 
-· Digital Forensics · Emerging Technologies in Cybersecurity · Network & 
-Security Foundations
+*Relevant Coursework:* Fundamentals of Information Security · Legal Issues in Information Security · Ethics in Technology · Information Systems Security · Digital Forensics · Emerging Technologies in Cybersecurity · Network & Security Foundations
 
 ---
 
